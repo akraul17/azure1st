@@ -1,0 +1,9 @@
+<! Jay Jaganath>
+<html>
+<body style="background-color:powderblue;">
+
+<h1>Hi This is India</h1>
+<p> Welcome to my first Azure Website application.</p>
+
+</body>
+</html>
